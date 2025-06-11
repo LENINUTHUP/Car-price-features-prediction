@@ -25,4 +25,8 @@ The project consists of the following key components:
 4. **Hyperparameter Tuning:** Performing hyperparameter tuning on the best-performing model to potentially improve its performance.
 5. **Feature Importance Analysis:** Identifying the significant variables affecting car prices.
 6. **Visualization:** Visualizing model performance, feature importance, and outlier detection.
+## Results
+The Jupyter Notebook presents the performance metrics for each model, including R-squared, MSE, and MAE. It also identifies the most important features affecting car prices based on the feature importance analysis. The scatter plots provide a visual comparison of the models' predictive capabilities, while the box plots show the distribution of car prices and highlight any outliers. Finally, it shows the results of hyperparameter tuning and compares the performance of the tuned model with the default model.
 
+## Conclusion
+This project provides a comprehensive analysis of car price prediction in the American market. The findings can be used by the Chinese automobile company to understand the pricing dynamics and make informed decisions about their business strategy. The visualizations provide additional insights into model performance and data characteristics.
