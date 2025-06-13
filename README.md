@@ -28,5 +28,7 @@ The project consists of the following key components:
 ## Results
 The Jupyter Notebook presents the performance metrics for each model, including R-squared, MSE, and MAE. It also identifies the most important features affecting car prices based on the feature importance analysis. The scatter plots provide a visual comparison of the models' predictive capabilities, while the box plots show the distribution of car prices and highlight any outliers. Finally, it shows the results of hyperparameter tuning and compares the performance of the tuned model with the default model.
 
+![download](https://github.com/user-attachments/assets/6f00c9e7-2a8e-4bd1-bcfb-335a4d625ca0)
+
 ## Conclusion
 This project provides a comprehensive analysis of car price prediction in the American market. The findings can be used by the Chinese automobile company to understand the pricing dynamics and make informed decisions about their business strategy. The visualizations provide additional insights into model performance and data characteristics.
